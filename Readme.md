@@ -52,16 +52,16 @@ Para rodar o jogo, siga os seguintes passos:
 
 ## 6. ELEMENTOS GRÁFICOS
 
-1. ![Cerca)](<img/Metal_Wire_Fence%20(16%20x%2016).png>)
-2. ![Casa)](<img/House%20(112%20x%2096).png>)
-3. ![Bloco-Textura)](<img/Terrain%20(16%20x%2016).png>)
-4. ![Elementos)](<img/Grassland_entities%20(16%20x%2016).png>)
-5. ![Platas)](<img/Extra_plants%20(16%20x%2016).png>)
-6. ![Cénario)](img/1%20-%20Foreground_scenery.png) 
-7.![Cénario: Céu](<img/_Complete_static_BG_(288%20x%20208).png>)
+1. ![Cerca)](<IMG/cerca.png>)
+2. ![Casa)](<IMG/casa.png>)
+3. ![Bloco-Textura)](<IMG/subida.png>)
+4. ![Elementos)](<IMG/arvores.png>)
+5. ![Platas)](<IMG/arvore.png>)
+6. ![Cénario)](IMG/planta.png) 
+7.![Cénario: Céu](<IMG/horizonte.png>)
 
 ## 7. PERSONAGEM
-![Personagem)](<img/Idle%20(32%20x%2032).png>)
+![Personagem)](<IMG/personagem.png>)
 
 ---
 
